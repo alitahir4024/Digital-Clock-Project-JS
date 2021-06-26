@@ -20,4 +20,4 @@ In this project Digital-Clock is developed by using only JS.
 
 ## Project Preview:
 
-[Digital Clock Project](https://ali-tahir4024.github.io/Digital-Clock-Project-JS/)
+[Digital Clock Project](https://alitahir4024.github.io/Digital-Clock-Project-JS/)
